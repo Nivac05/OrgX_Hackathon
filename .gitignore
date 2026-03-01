@@ -1,0 +1,27 @@
+# Node
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+ENV/
+.env
+
+# Logs & DB
+*.log
+events_wal.log
+*.db
+*.sqlite
+
+# OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.gemini/
